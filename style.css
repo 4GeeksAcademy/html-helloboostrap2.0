@@ -1,0 +1,40 @@
+.navigation-bar-brand {
+    font-family: 'Oil Pen', cursive;
+    font-size: 25px;
+}
+.light-btn {
+    background-color: #ffffff;
+    color: #000000;
+}
+.navigation-bar {
+    border-bottom: 1px lightgray solid;
+}
+.margin {
+    margin-top: 70px;
+}
+.segment {
+    margin-top: 5px;
+}
+.card {
+    margin: 40px auto;
+    width: 600px;
+}
+.card-header {
+    padding: .75em 15px;
+}
+.title {
+    display: inline-block;
+}
+.link-btn {
+    float: right;
+    color: gray;
+    padding-right: 0px;
+}
+.card-body {
+    padding: 15px;
+}
+.comment {
+    color: #CDCCCC;
+    display: inline-block;
+    width: 88%;
+}
